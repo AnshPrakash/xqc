@@ -33,6 +33,8 @@ dependencies = [
     "moviepy==1.0.3",
     "humanoid_bench",
     "MyoSuite",
+    "ipdb",
+    "hydra-submitit-launcher==1.2.0",
 ]
 
 [tool.uv.sources]
