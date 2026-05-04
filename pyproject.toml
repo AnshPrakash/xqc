@@ -35,6 +35,7 @@ dependencies = [
     "MyoSuite",
     "ipdb",
     "hydra-submitit-launcher==1.2.0",
+    "submitit==1.5.3",
 ]
 
 [tool.uv.sources]
